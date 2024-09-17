@@ -28,35 +28,42 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-
+    - <b> Slovenian Platform for sustainable mobility </b>: https://www.sptm.si/gradiva
+    - <b> Transport Development Strategy of the Republic of Slovenia, Until 2030 </b>: https://www.gov.si/assets/ministrstva/MzI/Dokumenti/Transport-Development-Strategy-of-the-Republic-of-Slovenia-Until-2030.pdf
 - General
+    - <b> Slovenian Development Strategy 2030 </b>: https://www.gov.si/assets/ministrstva/MKRR/Strategija-razvoja-Slovenije-2030/Slovenian-Development-Strategy-2030.pdf
+    - <b> Spatial Development Strategy of Slovenia, 2004 </b>: https://www.gov.si/assets/ministrstva/MOP/Publikacije/sprs_eng.pdf
+    - <b> Resolution on Slovenia´s Long-Term Climate Strategy Until 2050 </b>: https://unfccc.int/sites/default/files/resource/LTS1_SLOVENIA_EN.pdf
+    - <b> INTEGRATED NATIONAL ENERGY AND CLIMATE PLAN OF THE REPUBLIC OF SLOVENIA, 2020 </b>: https://energy.ec.europa.eu/system/files/2020-06/si_final_necp_main_en_0.pdf
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
- 
+    - <b> Railway activities in Slovenia </b>: https://unece.org/fileadmin/DAM/trans/doc/2019/TEM/15_Oct_2019_S2__Vlasta_Kampos-Jerenec.pdf
 - Roads:
     
 - Inland waterways, ports:
+  
 - Aviation:
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
     
-- Adaptation
-   
-
+- Adaptation  
+     - <b> Strategic Framework for Climate Change Adaption, 2016 </b>: https://www.gov.si/assets/ministrstva/MOPE/Okolje/Podnebne-spremembe/SOzP_ang.pdf
+       
 - Energy policy 
     
 
 ### Urban and regional development <a name="urban"></a> 
 
-- 
+- <b> SUMP Ljubljana, 2018 </b>: https://rralur.si/wp-content/uploads/2020/03/SUMP-LUR.pdf
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
+- </b> EBRD, Draft Slovenia Countr Strategy 2024-2029 </b>: https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiB96XNk8qIAxUXiP0HHfDzKUcQFnoECB4QAQ&url=https%3A%2F%2Fwww.ebrd.com%2Fdraft-slovenia-country-strategy.pdf&usg=AOvVaw20MaXLACyYRHAzzUnqsPjS&opi=89978449
 - 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
