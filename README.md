@@ -60,6 +60,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Urban and regional development <a name="urban"></a> 
 
 - <b> SUMP Ljubljana, 2018 </b>: https://rralur.si/wp-content/uploads/2020/03/SUMP-LUR.pdf
+- <b> Bratislava 2030 </b>: https://bratislava2030.sk/wp-content/uploads/2023/03/A-C-Strategicka-cast-Bratislava-2030_032023.pdf
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
